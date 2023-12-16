@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer align="center">
       <Typography align="center" variant="body2">
-        &copy; 2020 -{' '}
+        &copy; {new Date().getFullYear()} -{' '}
         <Link href="https://www.azeemansari.me" target="_blank" color="inherit">
           Azeem Ansari
         </Link>
