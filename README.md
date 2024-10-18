@@ -1,6 +1,6 @@
 # ReactJs Recipes Finder PWA
 
-### [Live Site](https://recipes.azeemansari.me/)
+### [Live Site](https://recipes.azeemansari.in/)
 
 ![React Advice PWA](https://i.ibb.co/nmG93b3/Food-Recipe-Finder.png)
 
